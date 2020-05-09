@@ -9,6 +9,7 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/DhruvDoshi/bulk_mail_sender.svg)](https://github.com/DhruvDoshi/bulk_mail_sender/issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/DhruvDoshi/bulk_mail_sender.svg?style=popout-square)
 [![HitCount](http://hits.dwyl.io/DhruvDoshi/bulk_mail_sender.svg)](http://hits.dwyl.io/DhruvDoshi/DCS_BBN)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
